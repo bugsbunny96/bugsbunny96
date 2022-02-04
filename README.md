@@ -1,6 +1,7 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rishabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/rishabh-sharma-7841aa139/)
+[![Linkedin Badge](https://img.shields.io/badge/-Rishabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishabh-sharma-7841aa139/)](https://www.linkedin.com/in/rishabh-sharma-7841aa139/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Rishabh-green)](https://bugsbunny96.github.io/rishabhResume/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rishabh-yellow)](https://stackoverflow.com/users/17899377/rishabh-sharma)
 
 I'm
