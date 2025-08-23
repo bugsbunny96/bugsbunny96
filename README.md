@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rishabh Sharma  
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Rishabh_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishabh-sharma-7841aa139/)](https://www.linkedin.com/in/rishabh-sharma-7841aa139/)  
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Rishabh-green?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://bugsbunny96.github.io/rishabhResume/)](https://bugsbunny96.github.io/rishabhResume/)  
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Rishabh-green?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rishabh-resume.vercel.app/)](https://rishabh-resume.vercel.app/)   
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-Rishabh-yellow?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/17899377/rishabh-sharma)](https://stackoverflow.com/users/17899377/rishabh-sharma)  
 
 ---
