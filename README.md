@@ -123,12 +123,12 @@ B2B AI workflow automation platform for orchestrating, monitoring, and managing 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bugsbunny96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bugsbunny96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com/?user=bugsbunny96&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugsbunny96&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bugsbunny96&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
 </p>
 
 ---
@@ -147,63 +147,3 @@ B2B AI workflow automation platform for orchestrating, monitoring, and managing 
 *Open to remote roles globally — IST overlaps EU & US-East mornings*
 
 </div>
-⚡ Passionate about building **scalable web apps, optimized frontend architectures, and high-performance APIs**.  
-🛠 Skilled at bridging **design, development, and deployment** with clean, efficient code.  
-🤝 Experienced in **leading teams, mentoring developers, and driving end-to-end project execution**.  
-
----
-
-## 🏆 Career Highlights  
-
-- Architected and deployed **enterprise-grade MERN applications** used by 100k+ users.  
-- Created an in-house **React Design System** (auth-ui) at AuthBridge → boosted dev speed & consistency.  
-- Scaled **fullstack projects** with Next.js, Node.js, and MongoDB/PostgreSQL → reducing load times by 40%.  
-- Advocated **best practices** in CI/CD, Git workflows, and code reviews → improved team productivity.  
-
----
-
-## 🛠️ Tech Stack  
-
-**Frontend:**  
-React.js | Next.js | Redux | Zustand | TailwindCSS | Bootstrap | TypeScript  
-
-**Backend:**  
-Node.js | Express.js | Nest.js | REST APIs | GraphQL  
-
-**Database & Cloud:**  
-MongoDB | PostgreSQL | MySQL | Firebase | Supabase | AWS | Vercel  
-
-**Tools & DevOps:**  
-Git | GitHub Actions | Docker | CI/CD | VS Code  
-
----
-
-## 📈 GitHub Insights  
-
-![Visitor Count](https://profile-counter.glitch.me/bugsbunny96/count.svg)  
-
-<div align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=bugsbunny96&theme=onedark&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>  
-</div>  
-
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=bugsbunny96&show_icons=true&theme=radical" height="165"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugsbunny96&layout=compact&theme=radical" height="165"/>  
-</div>  
-
----
-
-## 🌱 Currently Exploring  
-
-- **Advanced Next.js optimizations** for speed & SEO  
-- **Scalable microservices** with Node.js & Docker  
-- **AI-powered applications** integrating with MERN stack  
-
----
-
-## 💬 Let’s Connect  
-
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rishabh-sharma-7841aa139/)  
-⚡ Fun fact: I believe **clean code = happy team + happy users** 🚀  
-
----
